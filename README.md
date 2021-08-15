@@ -49,3 +49,5 @@ This project is made for TechHacks 2.0 under the education track.
 *  #### FRONT END: HTML, CSS, JavaScript, Ejs.
 *  #### BACK END: Node.js, express.js, socket.io, mongoose, passport.js.
 *  #### DATABASE: MongoDB
+
+#### The project can be accesssed [here](https://still-dusk-61836.herokuapp.com/)
