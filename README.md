@@ -48,4 +48,4 @@ This project is made for TechHacks 2.0 under the education track.
 ## TECH STACK
 *  #### FRONT END: HTML, CSS, JavaScript, Ejs.
 *  #### BACK END: Node.js, express.js, socket.io, mongoose, passport.js.
-*  #### DATABASE: MonogoDB
+*  #### DATABASE: MongoDB
